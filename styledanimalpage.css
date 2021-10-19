@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(180, 84, 137);
+   
+  }
+
+  li {
+    float:left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .DivLeft1{
+      float: left;
+      width: 29%;
+  }
+
+  .DivRight1{
+    float: right;
+    width: 70%;
+}
+.DivRight2{
+    float: right;
+    width: 70%;
+    
+}
+
+.img2{
+    float: left;
+    padding-right: 15px;
+}
